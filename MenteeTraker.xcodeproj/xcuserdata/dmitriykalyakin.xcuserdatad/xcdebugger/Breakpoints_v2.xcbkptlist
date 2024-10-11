@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E21B6E46-91B7-4B97-AE0F-816939B746A9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB4AF2CF-49AE-46AF-BA39-D36EA57CD4E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenteeTraker/Managers/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "registerUser(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "384F49C7-6B67-432E-9354-03989BB72F7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenteeTraker/Controllers/Core/CreateNewTaskVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "384F49C7-6B67-432E-9354-03989BB72F7B - 7f7d2faf97bda4f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenteeTraker.CreateNewTaskVC.viewDidLoad() -&gt; ()"
+                  moduleName = "MenteeTraker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriykalyakin/Developer/MenteeTraker/MenteeTraker/Controllers/Core/CreateNewTaskVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "384F49C7-6B67-432E-9354-03989BB72F7B - 8a384dacee905e49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Swift.String&gt;) -&gt; () in MenteeTraker.CreateNewTaskVC.viewDidLoad() -&gt; ()"
+                  moduleName = "MenteeTraker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriykalyakin/Developer/MenteeTraker/MenteeTraker/Controllers/Core/CreateNewTaskVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "384F49C7-6B67-432E-9354-03989BB72F7B - 7f7d2faf97bda4f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenteeTraker.CreateNewTaskVC.viewDidLoad() -&gt; ()"
+                  moduleName = "MenteeTraker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriykalyakin/Developer/MenteeTraker/MenteeTraker/Controllers/Core/CreateNewTaskVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
